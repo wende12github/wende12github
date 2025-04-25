@@ -97,6 +97,5 @@ I’ve also participated in several **Hackathons** and team projects, where I ho
 <h2 align="center">🔥 Streak Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wende12github&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=wende12github&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
