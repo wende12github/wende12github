@@ -31,6 +31,15 @@ I’ve also participated in several **Hackathons** and team projects, where I ho
 
 ---
 
+<h2 align="center">🛠️ Languages & Tools</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,flutter,php,js,ts,java,cpp,html,tailwindcss,react,dart,git,github,vscode,linux&perline=8" alt="Skills" />
+  </a>
+</p>
+
+---
+
 ### 🔭 Currently Working On
 
 - Individual & team-based projects involving **Django**, **Flutter**, and **React Native**
@@ -98,5 +107,5 @@ I’ve also participated in several **Hackathons** and team projects, where I ho
 <h2 align="center">🔥 Streak Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wende12github&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=wende12github&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
