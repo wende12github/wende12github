@@ -19,74 +19,183 @@
 ---
 
 ### 👨‍💻 About Me
+
 #### Site Link: <a href="https://wende12github.github.io/Personal-Portfolio/" target="_blank"> My Personal Portfolio</a>
 
-I'm a passionate **Backend and Mobile App Developer** with hands-on experience building real-world applications using:
-
-- 🛠️ **Backend**: Django, Django REST Framework, PHP  
-- 📱 **Mobile**: Flutter, React Native, Java  
-- 🤖 **Machine Learning**: Basics & actively exploring
-
-I’ve also participated in several **Hackathons** and team projects, where I honed my skills in building fast, functional, and scalable software in collaborative environments.
+<table>
+  <tr>
+    <td width="55%">
+      I'm a passionate <strong>Backend and Mobile App Developer</strong> with hands-on experience building real-world applications using:
+      <ul>
+        <li>🛠️ <strong>Backend</strong>: Django, Django REST Framework, PHP</li>
+        <li>📱 <strong>Mobile</strong>: Flutter, React Native, Java</li>
+        <li>🤖 <strong>Machine Learning</strong>: Basics & actively exploring</li>
+      </ul>
+      I’ve also participated in several <strong>Hackathons</strong> and team projects, where I honed my skills in building fast, functional, and scalable software in collaborative environments.
+    </td>
+    <td width="50%" align="right">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer typing at multiple monitors animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 <h2 align="center">🛠️ Languages & Tools</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flutter,php,js,ts,java,cpp,html,tailwindcss,react,dart,git,github,vscode,linux&perline=8" alt="Skills" />
-  </a>
-</p>
+
+| Category               | Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Backend Framework**  | <img src="https://skillicons.dev/icons?i=django" width="60" height="60" alt="Django" /> <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js" /> <img src="https://skillicons.dev/icons?i=spring" width="60" height="60" alt="Spring Boot" /> <img src="https://skillicons.dev/icons?i=php" width="60" height="60" alt="PHP" />                                                                                                                                                                                                                                                     |
+| **Frontend Framework** | <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" /> <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" alt="Next.js" /> <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="TailwindCSS" /> <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" /> <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML" /> <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />                                                                   |
+| **Mobile Framework**   | <img src="https://skillicons.dev/icons?i=flutter" width="60" height="60" alt="Flutter" /> <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React Native" />                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Languages**          | <img src="https://skillicons.dev/icons?i=python" width="60" height="60" alt="Python" /> <img src="https://skillicons.dev/icons?i=java" width="60" height="60" alt="Java" /> <img src="https://skillicons.dev/icons?i=php" width="60" height="60" alt="PHP" /> <img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts" width="60" height="60" alt="TypeScript" /> <img src="https://skillicons.dev/icons?i=dart" width="60" height="60" alt="Dart" /> <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" alt="C++" /> |
+| **Machine Learning**   | <img src="https://skillicons.dev/icons?i=tensorflow" width="60" height="60" alt="TensorFlow" /> <img src="https://skillicons.dev/icons?i=pytorch" width="60" height="60" alt="PyTorch" /> <img src="https://skillicons.dev/icons?i=scikitlearn" width="60" height="60" alt="Scikit-learn" /> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" height="60" alt="Kaggle" /> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" height="60" alt="Google Colab" />                                       |
+| **Database**           | <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="PostgreSQL" /> <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="MySQL" /> <img src="https://skillicons.dev/icons?i=sqlite" width="60" height="60" alt="SQLite" /> <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />                                                                                                                                                                                                                                               |
+| **Cloud**              | <img src="https://skillicons.dev/icons?i=aws" width="60" height="60" alt="AWS" /> <img src="https://skillicons.dev/icons?i=gcp" width="60" height="60" alt="Google Cloud" /> <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" alt="Firebase" /> <img src="https://skillicons.dev/icons?i=supabase" width="60" height="60" alt="Supabase" />                                                                                                                                                                                                                                                |
+| **Deployment**         | <img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker" /> <img src="https://skillicons.dev/icons?i=githubactions" width="60" height="60" alt="GitHub Actions" />                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Service & Tools**    | <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" alt="Postman" /> <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" /> <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" /> <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VS Code" /> <img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux" />                                                                                                                                                                  |
 
 ---
 
-### 🔭 Currently Working On
+<div align="center">
 
-- Individual & team-based projects involving **Django**, **Flutter**, and **React Native**
-- Exploring advanced **backend architectures** and **API development**
+## 🔭 Currently Working On
 
----
+<table>
+  <tr>
+    <td align="left" width="50%">
+      <img src="https://img.shields.io/badge/🛠️_Backend_Development-Django_&_DRF-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/📱_Mobile_Apps-Flutter_&_React_Native-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    </td>
+    <td align="left" width="50%">
+      <img src="https://img.shields.io/badge/🏗️_Architecture-Scalable_Backend_Systems-FF6B35?style=for-the-badge&logo=architecture&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/🔗_API_Development-RESTful_Services-4CAF50?style=for-the-badge&logo=api&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-### 🌱 Currently Learning
-
-- Deep dive into **Django + DRF** for production-ready backend systems
-- Leveling up my **Python & Java** skills for scalable backend logic
-
----
-
-### 👯 Looking to Collaborate On
-
-- Real-world **backend-focused** projects
-- Exciting cross-platform mobile apps with **Flutter** or **React Native**
-
----
-
-### 🤔 Looking for Help With
-
-- Growing into a **highly skilled Python & Java developer**
-- Becoming more efficient with **machine learning workflows**
+</div>
 
 ---
 
-### 💬 Ask Me About
+<div align="center">
 
-- Building REST APIs with Django
-- Setting up cross-platform apps with Flutter or React Native
-- Structuring backend projects for scale and security
+## 🤝 Collaboration & Learning Interests
+
+<table>
+  <tr>
+    <td align="left" width="50%">
+      <h3>👯 Looking to Collaborate On</h3>
+      <img src="https://img.shields.io/badge/🌐_Real_World_Projects-Backend_Focus-20BEFF?style=for-the-badge&logo=code&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/🚀_Open_Source-Community_Driven-00D4AA?style=for-the-badge&logo=opensource&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/📱_Mobile_Innovation-Cross_Platform-FF69B4?style=for-the-badge&logo=mobile&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/🏆_Hackathons-Team_Competitions-FF4081?style=for-the-badge&logo=trophy&logoColor=white" />
+    </td>
+    <td align="left" width="50%">
+      <h3>🤔 Looking for Help With</h3>
+      <img src="https://img.shields.io/badge/💪_Skill_Enhancement-Python_&_Java_Mastery-9C27B0?style=for-the-badge&logo=code&logoColor=white" />
+      <br><br><br>
+      <img src="https://img.shields.io/badge/🧠_ML_Workflows-Efficient_Implementation-FF5722?style=for-the-badge&logo=brain&logoColor=white" />
+      <br><br><br>
+      <img src="https://img.shields.io/badge/🌟_Best_Practices-Industry_Standards-00BCD4?style=for-the-badge&logo=star&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-### 📫 Contact Me
+<div align="center">
 
-- Email: **wendmagegn9412@gmail.com**
+## 💬 Ask Me About
+
+<table>
+  <tr>
+    <td align="left" width="33%">
+      <img src="https://img.shields.io/badge/🔗_REST_APIs-Django_&_DRF-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    </td>
+    <td align="left" width="33%">
+      <img src="https://img.shields.io/badge/📱_Cross_Platform-Flutter_&_RN-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    </td>
+    <td align="left" width="33%">
+      <img src="https://img.shields.io/badge/🏗️_Backend_Architecture-Scalable_Systems-FF6B35?style=for-the-badge&logo=architecture&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="https://img.shields.io/badge/🔒_Security-Best_Practices-4CAF50?style=for-the-badge&logo=security&logoColor=white" />
+    </td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/🏆_Hackathons-Competition_Strategy-FF4081?style=for-the-badge&logo=trophy&logoColor=white" />
+    </td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/💡_Problem_Solving-Creative_Solutions-9C27B0?style=for-the-badge&logo=lightbulb&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-### 😄 Fun Fact
+<div align="center">
 
-- I love **Hackathons** – nothing beats late-night coding sprints and coffee-powered teamwork!
+## 📫 Let's Connect!
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:wendmagegn9412@gmail.com">
+        <img src="https://img.shields.io/badge/📧_Email-wendmagegn9412@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://t.me/Mark_9412">
+        <img src="https://img.shields.io/badge/💬_Telegram-NoName Code-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://x.com/Mark_9412">
+        <img src="https://img.shields.io/badge/(Twitter)-@wende-000000?style=for-the-badge&logo=x&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
+
+<div align="center">
+
+## 😄 Fun Fact
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🏆_Hackathon_Lover-Coffee_Powered_Coding-FF6B35?style=for-the-badge&logo=coffee&logoColor=white" />
+      <br><br>
+      <em>"Nothing beats late-night coding sprints and coffee-powered teamwork! ☕️⚡"</em>
+      <br><br>
+      <img src="https://img.shields.io/badge/💡_Problem_Solver-Creative_Thinker-9C27B0?style=for-the-badge&logo=brain&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 
 <h2 align="center">📊 My GitHub Stats</h2>
 
