@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-#### Site Link: <a href="https://wende12github.github.io/Personal-Portfolio/" target="_blank"> My Personal Portfolio</a>
+#### Site Link: <a href="https://yetibebsinq.vercel.app" target="_blank"> My Personal Portfolio</a>
 
 <table>
   <tr>
