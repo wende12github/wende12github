@@ -13,6 +13,7 @@
 <p align="center">
   🌍 <strong>Backend & Mobile App Developer</strong>  
   <br>🚀 <strong>Hackathon Enthusiast</strong>  
+  <br>🚀 <strong>Frontend NextJS/React Developer</strong>  
   <br>🤖 <strong>Machine Learning Explorer</strong>
 </p>
 
