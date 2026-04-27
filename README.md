@@ -13,7 +13,7 @@
 <p align="center">
   🌍 <strong>Backend & Mobile App Developer</strong>  
   <br>🚀 <strong>Hackathon Enthusiast</strong>  
-  <br>🚀 <strong>Frontend NextJS/React Developer</strong>  
+  <br>🚀 <strong>Frontend Next.js / React Developer</strong>  
   <br>🤖 <strong>Machine Learning Explorer</strong>
 </p>
 
@@ -21,24 +21,32 @@
 
 ### 👨‍💻 About Me
 
-#### Site Link: <a href="https://yetibebsinq.vercel.app" target="_blank"> My Personal Portfolio</a>
+#### Portfolio: <a href="https://yetibebsinq.vercel.app" target="_blank">yetibebsinq.vercel.app</a>
 
 <table>
   <tr>
     <td width="55%">
-      I'm a passionate <strong>Backend and Mobile App Developer</strong> with hands-on experience building real-world applications using:
+      I'm a <strong>Backend and Mobile App Developer</strong> focused on building practical, scalable applications with a strong product mindset.
+      <br><br>
+      My core stack includes:
       <ul>
-        <li>🛠️ <strong>Backend</strong>: Django, Django REST Framework, PHP</li>
+        <li>🛠️ <strong>Backend</strong>: Django, Django REST Framework, NodeJS</li>
         <li>📱 <strong>Mobile</strong>: Flutter, React Native, Java</li>
         <li>🤖 <strong>Machine Learning</strong>: Basics & actively exploring</li>
       </ul>
-      I’ve also participated in several <strong>Hackathons</strong> and team projects, where I honed my skills in building fast, functional, and scalable software in collaborative environments.
+      I’ve also participated in <strong>Hackathons</strong> and team projects, where I’ve learned to move fast, communicate clearly, and ship useful software under pressure.
     </td>
     <td width="50%" align="right">
       <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer typing at multiple monitors animation" />
     </td>
   </tr>
 </table>
+
+### Focus & Collaboration
+
+- Building backend APIs, mobile experiences, and clean user-facing products.
+- Open to collaboration on real-world backend, mobile, open source, and hackathon projects.
+- Interested in strengthening Python, Java, and machine learning workflows.
 
 ---
 
@@ -55,24 +63,32 @@
 | **Cloud**              | <img src="https://skillicons.dev/icons?i=aws" width="60" height="60" alt="AWS" /> <img src="https://skillicons.dev/icons?i=gcp" width="60" height="60" alt="Google Cloud" /> <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" alt="Firebase" /> <img src="https://skillicons.dev/icons?i=supabase" width="60" height="60" alt="Supabase" />                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | **Deployment**         | <img src="https://camo.githubusercontent.com/67bf0811ad0811af2ea7ac7b43e8c16f5fb89fa45e2dcc0a7035e8b053215794/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" width="60" height="60" alt="Docker" /> <img src="https://skillicons.dev/icons?i=githubactions" width="60" height="60" alt="GitHub Actions" />                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | **Service & Tools**    | <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" alt="Postman" /> <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" /> <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" /> <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VS Code" /> <img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux" />                                                                                                                                                                                                                                                                                                                                             |
-
 ---
-
+---
 <div align="center">
 
-## 🔭 Currently Working On
+## 📫 Let's Connect!
 
 <table>
   <tr>
-    <td align="left" width="50%">
-      <img src="https://img.shields.io/badge/🛠️_Backend_Development-Django_&_DRF-092E20?style=for-the-badge&logo=django&logoColor=white" />
-      <br><br>
-      <img src="https://img.shields.io/badge/📱_Mobile_Apps-Flutter_&_React_Native-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <td align="center">
+      <a href="mailto:wendmagegn9412@gmail.com">
+        <img src="https://img.shields.io/badge/📧_Email-wendmagegn9412@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
     </td>
-    <td align="left" width="50%">
-      <img src="https://img.shields.io/badge/🏗️_Architecture-Scalable_Backend_Systems-FF6B35?style=for-the-badge&logo=architecture&logoColor=white" />
-      <br><br>
-      <img src="https://img.shields.io/badge/🔗_API_Development-RESTful_Services-4CAF50?style=for-the-badge&logo=api&logoColor=white" />
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://t.me/Mark_9412">
+        <img src="https://img.shields.io/badge/💬_Telegram-NoName Code-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://x.com/Mark_9412">
+          <img src="https://img.shields.io/badge/X-@wende-000000?style=for-the-badge&logo=x&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
@@ -80,36 +96,27 @@
 </div>
 
 ---
+---
 
 <div align="center">
 
-## 🤝 Collaboration & Learning Interests
+## 😄 Fun Fact
 
 <table>
   <tr>
-    <td align="left" width="50%">
-      <h3>👯 Looking to Collaborate On</h3>
-      <img src="https://img.shields.io/badge/🌐_Real_World_Projects-Backend_Focus-20BEFF?style=for-the-badge&logo=code&logoColor=white" />
+    <td align="center">
+      <img src="https://img.shields.io/badge/🏆_Hackathon_Lover-Coffee_Powered_Coding-FF6B35?style=for-the-badge&logo=coffee&logoColor=white" />
       <br><br>
-      <img src="https://img.shields.io/badge/🚀_Open_Source-Community_Driven-00D4AA?style=for-the-badge&logo=opensource&logoColor=white" />
+      <em>"Nothing beats late-night coding sprints and coffee-powered teamwork! ☕️⚡"</em>
       <br><br>
-      <img src="https://img.shields.io/badge/📱_Mobile_Innovation-Cross_Platform-FF69B4?style=for-the-badge&logo=mobile&logoColor=white" />
-      <br><br>
-      <img src="https://img.shields.io/badge/🏆_Hackathons-Team_Competitions-FF4081?style=for-the-badge&logo=trophy&logoColor=white" />
-    </td>
-    <td align="left" width="50%">
-      <h3>🤔 Looking for Help With</h3>
-      <img src="https://img.shields.io/badge/💪_Skill_Enhancement-Python_&_Java_Mastery-9C27B0?style=for-the-badge&logo=code&logoColor=white" />
-      <br><br><br>
-      <img src="https://img.shields.io/badge/🧠_ML_Workflows-Efficient_Implementation-FF5722?style=for-the-badge&logo=brain&logoColor=white" />
-      <br><br><br>
-      <img src="https://img.shields.io/badge/🌟_Best_Practices-Industry_Standards-00BCD4?style=for-the-badge&logo=star&logoColor=white" />
+      <img src="https://img.shields.io/badge/💡_Problem_Solver-Creative_Thinker-9C27B0?style=for-the-badge&logo=brain&logoColor=white" />
     </td>
   </tr>
 </table>
 
 </div>
 
+---
 ---
 
 <div align="center">
@@ -144,57 +151,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-## 📫 Let's Connect!
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="mailto:wendmagegn9412@gmail.com">
-        <img src="https://img.shields.io/badge/📧_Email-wendmagegn9412@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://t.me/Mark_9412">
-        <img src="https://img.shields.io/badge/💬_Telegram-NoName Code-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://x.com/Mark_9412">
-        <img src="https://img.shields.io/badge/(Twitter)-@wende-000000?style=for-the-badge&logo=x&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 😄 Fun Fact
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🏆_Hackathon_Lover-Coffee_Powered_Coding-FF6B35?style=for-the-badge&logo=coffee&logoColor=white" />
-      <br><br>
-      <em>"Nothing beats late-night coding sprints and coffee-powered teamwork! ☕️⚡"</em>
-      <br><br>
-      <img src="https://img.shields.io/badge/💡_Problem_Solver-Creative_Thinker-9C27B0?style=for-the-badge&logo=brain&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
 ---
 
 <h2 align="center">📊 My GitHub Stats</h2>
